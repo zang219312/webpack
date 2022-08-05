@@ -1,0 +1,16 @@
+/node_modules/
+/dist/
+/.idea/
+
+# Editor directories and files
+
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.zip
+package-lock.json
